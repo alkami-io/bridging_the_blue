@@ -25,3 +25,5 @@
 haswell_template
 
 
+/public/packs
+/node_modules
