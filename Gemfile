@@ -25,6 +25,9 @@ gem 'jquery-rails'
 # FontAwesome: Font Icons
 gem "font-awesome-rails"
 
+# Webpacker: Javascript module management
+gem 'webpacker', '~> 2.0'
+
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
